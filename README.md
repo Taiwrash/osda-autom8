@@ -1,6 +1,10 @@
 #   Open Source Day Abuja 2022
+![image](https://user-images.githubusercontent.com/49725691/184219907-4681f53a-1e08-43e7-b6b1-3749eef2c6c0.png)
+
 
 ##  Welcome to **Autmation standpoint in open source world** repository 
+![image](https://user-images.githubusercontent.com/49725691/184220043-12cf0ad0-9bde-4686-9a05-08e7264c7ba3.png)
+
 
 ![Welcome](/assets/automation.PNG)
 
@@ -19,6 +23,11 @@
 )
 -   [About GitHub Project](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 -   [Automation Configuration in GitHub Project](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/configuring-automation-for-project-boards)
+
+##  Social Engagement
+- [After Party](https://twitter.com/Ibn_mudathir/status/1540767951824883712?s=20&t=wnw14U81CBGS0rldtRR_FA)
+- [Before Party](https://twitter.com/Ibn_mudathir/status/1539273594093678595?s=20&t=wnw14U81CBGS0rldtRR_FA)
+- 
 
 ## Reach Me On Social 🙋🏽
 
